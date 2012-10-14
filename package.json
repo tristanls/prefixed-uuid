@@ -1,0 +1,22 @@
+{
+  "name": "prefixed-uuid",
+  "version": "1.0.0",
+  "description": "v1 and v4 UUID generator with prefixes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristanls/prefixed-uuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "prefix"
+  ],
+  "dependencies": {
+    "node-uuid": "1.3.3"
+  },
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
